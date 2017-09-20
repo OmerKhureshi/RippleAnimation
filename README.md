@@ -1,5 +1,4 @@
 # RippleAnimation
-Ripple effects on mouse click
 
 Fun web application that shows ripple circle animations in a browser on mouse click.
 
